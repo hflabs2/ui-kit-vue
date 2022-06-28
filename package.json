@@ -1,7 +1,7 @@
 {
   "name": "@hflabs2/ui-kit-vue",
   "repository": "git://github.com/hflabs2/ui-kit-vue.git",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": false,
   "files": [
     "dist/*"
